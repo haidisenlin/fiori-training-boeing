@@ -1,0 +1,8 @@
+.class
+.settings
+.eslintrc.json
+Gruntfile.js
+build/
+webapp/WEB-INF
+webapp/META-INF
+.idea
